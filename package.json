@@ -47,5 +47,16 @@
     "ts-node": "~3.2.0",
     "tslint": "~5.7.0",
     "typescript": "~2.4.2"
-  }
+  },
+  "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.0.",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mocheje/biz.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/mocheje/biz/issues"
+  },
+  "homepage": "https://github.com/mocheje/biz#readme"
 }
