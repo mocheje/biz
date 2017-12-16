@@ -1,0 +1,29 @@
+#home-content  {
+    background-image: url('../../assets/images/home.jpg');
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#home-action {
+    /* display: flex; */
+    /* justify-content: center; */
+    /* flex-direction: row; */
+    align-items: space-between;
+    height: 400px;
+    width: 800wh;
+}
+
+#action-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+}
+
+#home-action h2 {
+    color: white;
+    font-size: 3em;
+    text-align: center;
+}

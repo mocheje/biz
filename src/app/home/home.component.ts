@@ -7,4 +7,13 @@ import { Component } from '@angular/core';
 })
 export class HomeComponent {
     title = 'home';
+    homeLogo = "assets/images/home.jpg"
+
+    constructor() {
+        //
+    }
+
+    goToinvestorPage() {
+        //
+    }
 }
