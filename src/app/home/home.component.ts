@@ -16,7 +16,7 @@ export class HomeComponent {
     }
 
     goToinvestorPage() {
-        this._router.navigate(['/login']);
+        this._router.navigate(['login']);
         // this.router.navigate(['/daily-production-summary'], { queryParams: this.dailyProductionHomeForm.value });
     }
 }
